@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\smartkey.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>all</name>
+      <member>
+        <project>CC2541_Smartkey</project>
+        <configuration>CC2540 SmartRF PG1 Slave</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+
